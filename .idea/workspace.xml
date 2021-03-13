@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c6c14e3-9276-4311-8ea1-c0a759f3a457" name="Default Changelist" comment="Vorcommit">
+    <list default="true" id="4c6c14e3-9276-4311-8ea1-c0a759f3a457" name="Default Changelist" comment="Zweiter Branch (im Brnach)">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615673020234</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Zweiter Branch">
+      <created>1615673054371</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615673054371</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Zweiter Branch (im Brnach)">
+      <created>1615673111221</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615673111221</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,7 +123,9 @@
     <MESSAGE value="Erste Aendergung" />
     <MESSAGE value="Del von test" />
     <MESSAGE value="Vorcommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vorcommit" />
+    <MESSAGE value="Zweiter Branch" />
+    <MESSAGE value="Zweiter Branch (im Brnach)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zweiter Branch (im Brnach)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
